@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "F6BCB1681C1E4D290078416B"
-               BuildableName = "TheAmazingAudioEngine Framework.framework"
+               BuildableName = "TheAmazingAudioEngine.framework"
                BlueprintName = "TheAmazingAudioEngine Framework"
                ReferencedContainer = "container:TheAmazingAudioEngine.xcodeproj">
             </BuildableReference>
@@ -46,7 +46,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "F6BCB1681C1E4D290078416B"
-            BuildableName = "TheAmazingAudioEngine Framework.framework"
+            BuildableName = "TheAmazingAudioEngine.framework"
             BlueprintName = "TheAmazingAudioEngine Framework"
             ReferencedContainer = "container:TheAmazingAudioEngine.xcodeproj">
          </BuildableReference>
@@ -64,7 +64,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "F6BCB1681C1E4D290078416B"
-            BuildableName = "TheAmazingAudioEngine Framework.framework"
+            BuildableName = "TheAmazingAudioEngine.framework"
             BlueprintName = "TheAmazingAudioEngine Framework"
             ReferencedContainer = "container:TheAmazingAudioEngine.xcodeproj">
          </BuildableReference>
